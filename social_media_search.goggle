@@ -1,7 +1,7 @@
-! name: Social Media Search
+! name: FindMe Wiki Social Media
 ! description: Search results from social media sites.
 ! public: true
-! author: FindMe.Wiki
+! author: FindMe.wiki
 ! homepage: https://findme.wiki/
 
 $discard
